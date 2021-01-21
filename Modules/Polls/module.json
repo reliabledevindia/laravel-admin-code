@@ -1,0 +1,13 @@
+{
+    "name": "Polls",
+    "alias": "polls",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Polls\\Providers\\PollsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
